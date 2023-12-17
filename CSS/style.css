@@ -323,3 +323,25 @@ iframe {
     }
 
 }
+
+/*desktop*/
+
+@media only screen and (max-width: 979px){
+
+    /*header index*/
+
+    .header{
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+    }
+
+    /*main index*/
+
+    .contenedor{
+        flex-direction: column;
+        align-items: center;
+        }
+        
+    }
+
