@@ -66,7 +66,7 @@ nav {
 
 .nav-link {
     color: black;
-    font-family:'Averia Sans Libre', sans-serif;
+    font-family: 'Averia Sans Libre', sans-serif;
 }
 
 /*main de index*/
@@ -326,11 +326,11 @@ iframe {
 
 /*desktop*/
 
-@media only screen and (max-width: 979px){
+@media only screen and (max-width: 979px) {
 
     /*header index*/
 
-    .header{
+    .header {
         flex-direction: column;
         align-items: center;
         align-content: center;
@@ -338,10 +338,9 @@ iframe {
 
     /*main index*/
 
-    .contenedor{
+    .contenedor {
         flex-direction: column;
         align-items: center;
-        }
-        
     }
 
+}
